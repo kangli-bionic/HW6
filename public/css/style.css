@@ -1,0 +1,18 @@
+.container {
+    width: 75%;
+    margin: auto;
+}
+
+.body {
+    margin: 0;
+    padding: 0;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: antiquewhite;
+}
+
+.table {
+    text-align: left;
+    width: 90%;
+    margin: auto;
+    border: 1px solid grey;
+}
